@@ -1,17 +1,17 @@
 Kāds varētu būt projekta nosaukums?
-
+atgādinājumiņš
 
 Ko projekts dara vienā teikumā?
-
+atgadina cilvekam kaut ko
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+palidz neaizmirst svarigas lietas
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+visi, bet ipaši studenti, skolotaji, uzņemeji, pensioneri
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+telegram bots
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 
