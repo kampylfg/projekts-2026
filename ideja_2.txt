@@ -1,17 +1,17 @@
 Kāds varētu būt projekta nosaukums?
-
+sacikstes (rase)
 
 Ko projekts dara vienā teikumā?
-
+speletajs kontrole auto lai ta nesaskārās ar šķērsli
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+nogalina laiku, izklaidē
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+studenti, speletaji
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+konsole
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 
