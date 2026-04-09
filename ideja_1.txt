@@ -14,4 +14,12 @@ Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkārš�
 konsole
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
+1) Lietotājs var bez problēmām atvērt lietotni, tai pieskaroties.
+2) Lietotājs var saskaitīt skaitļus.
+3) Lietotājs var atņemt skaitļus.
+4) Lietotājs var reizināt skaitļus.
+5) Lietotājs var dalīt skaitļus.
 
+1) Lietotāja interfeiss ir vienkāršs un viegli saprotams.
+2) Aprēķini tiek veikti ātri (rezultāts parādās uzreiz).
+3) Programma darbojas bez kļūdām un ir stabila.
