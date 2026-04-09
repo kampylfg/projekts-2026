@@ -1,17 +1,17 @@
 Kāds varētu būt projekta nosaukums?
-
+kalkulators
 
 Ko projekts dara vienā teikumā?
-
+skaita ciparus
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+skaita cilveka vieta
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+visi, bet ipasi studenti, uznemeji un tie, kas strada ar cipariem
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+konsole
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 
