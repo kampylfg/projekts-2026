@@ -1,25 +1,22 @@
 Kāds varētu būt projekta nosaukums?
-atgādinājumiņš
+TicTacToe Game
 
 Ko projekts dara vienā teikumā?
-atgadina cilvekam kaut ko
+Šī programma ļauj lietotājiem spēlēt klasisko krustiņu un nullīšu spēli datorā.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-palidz neaizmirst svarigas lietas
+Projekts nodrošina vienkāršu un ērtu izklaides veidu, kas palīdz pavadīt brīvo laiku un attīstīt loģisko domāšanu.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-visi, bet ipaši studenti, skolotaji, uzņemeji, pensioneri
+Galvenie lietotāji būs skolēni, draugi un jebkurš cilvēks, kurš vēlas spēlēt vienkāršu spēli datorā.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-telegram bots
+Lietotājs izmantos programmu caur vienkāršu spēles logu, kur var nospiest uz laukumiem un veikt gājienus.
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
-1) Lietotājs var ievadīt atgādinājuma tekstu
-2) Lietotājs var norādīt laiku vai aizkavi 
-3) Bots saglabā atgādinājumu līdz izpildes brīdim
-4) Bots nosūta ziņu lietotājam norādītajā laikā
-5) Lietotājs var sākt darbu ar botu, izmantojot komandu (/start)
 
-1) Bots darbojas nepārtraukti 
-2) Ziņojumi tiek nosūtīti laikā bez būtiskas aizkaves
-3) Bots ir drošs un nepieejams nepiederošām personām 
+Iespēja spēlēt krustiņus un nullītes
+Vienkāršs un saprotams spēles logs
+Uzvarētāja noteikšana
+Paziņojums par neizšķirtu
+Iespēja sākt jaunu spēli pēc beigām
